@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "id": "21",
+      "firstName": "Lucy",
+      "age": 27,
+      "companyId": "6"
+    },
+    {
+      "id": "100",
+      "firstName": "Marcus",
+      "age": 32,
+      "companyId": "1"
+    },
+    {
+      "id": "99",
+      "firstName": "Ashley",
+      "age": 24,
+      "companyId": "1"
+    },
+    {
+      "id": "24",
+      "firstName": "Jack",
+      "age": 55,
+      "companyId": "5"
+    },
+    {
+      "id": "45",
+      "firstName": "Sonia",
+      "age": 34,
+      "companyId": "6"
+    },
+    {
+      "id": "18",
+      "firstName": "Tania",
+      "age": 22,
+      "companyId": "7"
+    },
+    {
+      "firstName": "Stephen",
+      "age": 26,
+      "id": "8BwlA_x"
+    },
+    {
+      "firstName": "Gary",
+      "age": 29,
+      "id": "FAB4RLX"
+    },
+    {
+      "firstName": "Tony",
+      "age": 43,
+      "id": "di_J9SI"
+    },
+    {
+      "firstName": "John",
+      "age": 29,
+      "id": "8E5IZ84"
+    },
+    {
+      "firstName": "Kyle",
+      "age": 35,
+      "id": "qhpM2mk"
+    },
+    {
+      "firstName": "Vegeta",
+      "age": 35,
+      "id": "DnwkM4H"
+    },
+    {
+      "firstName": "Daniel",
+      "age": 22,
+      "id": "I68Pn2s"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    },
+    {
+      "id": "3",
+      "name": "Microsoft",
+      "description": "software"
+    },
+    {
+      "id": "4",
+      "name": "Amazon",
+      "description": "shopping"
+    },
+    {
+      "id": "5",
+      "name": "Netflix",
+      "description": "streaming"
+    },
+    {
+      "id": "6",
+      "name": "BBC",
+      "description": "broadcasting"
+    },
+    {
+      "id": "7",
+      "name": "Ocado",
+      "description": "food"
+    }
+  ]
+}

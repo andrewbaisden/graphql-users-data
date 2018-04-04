@@ -1,6 +1,6 @@
 # Graphql Users Data App
 
-In the root folder run the commands below. You need to run the express server, and the JSON server to get the app working.
+In the root folder run the commands below. You will need to run the express server, and the JSON server to get the app working.
 
 ## Installation
 

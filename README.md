@@ -1,6 +1,6 @@
 # Graphql Users Data App
 
-In the root folder run the commands below. You will need to run the express server, and the JSON server to get the app working.
+In the root folder run the commands below.
 
 ## Installation
 
@@ -10,23 +10,17 @@ Install node
 npm install
 ```
 
-Run the express server
+Run the app
 
 ```bash
-npm run dev
+npm run servers
 ```
 
-Run the JSON Server
+[http://localhost:4000/graphql](http://localhost:4000/graphql) for the GraphiQL, in-browser IDE tool, used for queries and mutations.
 
-```bash
-npm run json:server
-```
+[http://localhost:3000/](http://localhost:3000/) for the JSON Server
 
-http://localhost:4000/graphql for the GraphiQL, in-browser IDE tool, used for queries and mutations.
-
-http://localhost:3000/ for the JSON Server
-
-The database for users and companies is in root/db.json. You can see the changes at http://localhost:3000/ and in the root/db.json file.
+The database for users and companies is in root/db.json. You can see the changes at [http://localhost:3000/](http://localhost:3000/) and in the root/db.json file.
 
 Example search user query
 
